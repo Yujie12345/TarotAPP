@@ -1,5 +1,6 @@
-# TarotAPP
+# Oracle Path
 Personal Project for Tarot Reading APP, support iOS
+The APP was created using Cursor WITHOUT coding.
 
 # Download
 Download Oracle Path in App Store
