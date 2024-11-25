@@ -1,0 +1,550 @@
+{
+    "cards": [
+        {
+            "id": 0,
+            "name": "The Fool",
+            "description": "New beginnings, innocence, spontaneity",
+            "imageUrl": "fool",
+            "keywords": ["beginnings", "innocence", "adventure", "spontaneity"]
+        },
+        {
+            "id": 1,
+            "name": "The Magician",
+            "description": "Manifestation, resourcefulness, power",
+            "imageUrl": "magician",
+            "keywords": ["manifestation", "power", "action", "creativity"]
+        },
+        {
+            "id": 2,
+            "name": "The High Priestess",
+            "description": "Intuition, mystery, inner knowledge",
+            "imageUrl": "priestess",
+            "keywords": ["intuition", "mystery", "spirituality", "wisdom"]
+        },
+        {
+            "id": 3,
+            "name": "The Empress",
+            "description": "Fertility, nurturing, abundance",
+            "imageUrl": "empress",
+            "keywords": ["abundance", "nurturing", "fertility", "growth"]
+        },
+        {
+            "id": 4,
+            "name": "The Emperor",
+            "description": "Authority, structure, leadership",
+            "imageUrl": "emperor",
+            "keywords": ["authority", "leadership", "structure", "stability"]
+        },
+        {
+            "id": 5,
+            "name": "The Hierophant",
+            "description": "Tradition, conformity, belief systems",
+            "imageUrl": "hierophant",
+            "keywords": ["tradition", "spirituality", "education", "beliefs"]
+        },
+        {
+            "id": 6,
+            "name": "The Lovers",
+            "description": "Love, harmony, relationships, choices",
+            "imageUrl": "lovers",
+            "keywords": ["love", "choice", "relationships", "harmony"]
+        },
+        {
+            "id": 7,
+            "name": "The Chariot",
+            "description": "Control, willpower, success, determination",
+            "imageUrl": "chariot",
+            "keywords": ["determination", "willpower", "success", "control"]
+        },
+        {
+            "id": 8,
+            "name": "Strength",
+            "description": "Courage, patience, compassion, inner strength",
+            "imageUrl": "strength",
+            "keywords": ["strength", "courage", "patience", "control"]
+        },
+        {
+            "id": 9,
+            "name": "The Hermit",
+            "description": "Soul-searching, introspection, inner guidance",
+            "imageUrl": "hermit",
+            "keywords": ["introspection", "solitude", "guidance", "wisdom"]
+        },
+        {
+            "id": 10,
+            "name": "Wheel of Fortune",
+            "description": "Change, cycles, fate, turning point",
+            "imageUrl": "wheel",
+            "keywords": ["destiny", "cycles", "change", "fortune"]
+        },
+        {
+            "id": 11,
+            "name": "Justice",
+            "description": "Justice, fairness, truth, cause and effect",
+            "imageUrl": "justice",
+            "keywords": ["justice", "fairness", "truth", "balance"]
+        },
+        {
+            "id": 12,
+            "name": "The Hanged Man",
+            "description": "Surrender, letting go, new perspective",
+            "imageUrl": "hanged-man",
+            "keywords": ["sacrifice", "perspective", "suspension", "letting go"]
+        },
+        {
+            "id": 13,
+            "name": "Death",
+            "description": "Endings, transformation, transition",
+            "imageUrl": "death",
+            "keywords": ["transformation", "endings", "change", "renewal"]
+        },
+        {
+            "id": 14,
+            "name": "Temperance",
+            "description": "Balance, moderation, patience, purpose",
+            "imageUrl": "temperance",
+            "keywords": ["balance", "moderation", "harmony", "healing"]
+        },
+        {
+            "id": 15,
+            "name": "The Devil",
+            "description": "Bondage, materialism, temptation",
+            "imageUrl": "devil",
+            "keywords": ["bondage", "materialism", "addiction", "restriction"]
+        },
+        {
+            "id": 16,
+            "name": "The Tower",
+            "description": "Sudden change, upheaval, revelation",
+            "imageUrl": "tower",
+            "keywords": ["destruction", "revelation", "upheaval", "awakening"]
+        },
+        {
+            "id": 17,
+            "name": "The Star",
+            "description": "Hope, inspiration, serenity",
+            "imageUrl": "star",
+            "keywords": ["hope", "inspiration", "peace", "faith"]
+        },
+        {
+            "id": 18,
+            "name": "The Moon",
+            "description": "Illusion, fear, anxiety, intuition",
+            "imageUrl": "moon",
+            "keywords": ["illusion", "intuition", "uncertainty", "subconscious"]
+        },
+        {
+            "id": 19,
+            "name": "The Sun",
+            "description": "Joy, success, celebration, positivity",
+            "imageUrl": "sun",
+            "keywords": ["joy", "success", "vitality", "enlightenment"]
+        },
+        {
+            "id": 20,
+            "name": "Judgement",
+            "description": "Rebirth, inner calling, absolution",
+            "imageUrl": "judgement",
+            "keywords": ["rebirth", "calling", "awakening", "reckoning"]
+        },
+        {
+            "id": 21,
+            "name": "The World",
+            "description": "Completion, integration, accomplishment",
+            "imageUrl": "world",
+            "keywords": ["completion", "fulfillment", "integration", "achievement"]
+        },
+        {
+            "id": 22,
+            "name": "Ace of Wands",
+            "description": "New beginnings, inspiration, potential",
+            "imageUrl": "wands-1",
+            "keywords": ["creation", "potential", "inspiration", "desire"]
+        },
+        {
+            "id": 23,
+            "name": "Two of Wands",
+            "description": "Planning, making decisions, leaving home",
+            "imageUrl": "wands-2",
+            "keywords": ["planning", "decisions", "discovery", "future"]
+        },
+        {
+            "id": 24,
+            "name": "Three of Wands",
+            "description": "Progress, expansion, foresight",
+            "imageUrl": "wands-3",
+            "keywords": ["expansion", "progress", "leadership", "foresight"]
+        },
+        {
+            "id": 25,
+            "name": "Four of Wands",
+            "description": "Celebration, harmony, homecoming",
+            "imageUrl": "wands-4",
+            "keywords": ["celebration", "harmony", "homecoming", "community"]
+        },
+        {
+            "id": 26,
+            "name": "Five of Wands",
+            "description": "Competition, conflict, rivalry",
+            "imageUrl": "wands-5",
+            "keywords": ["conflict", "competition", "disagreement", "tension"]
+        },
+        {
+            "id": 27,
+            "name": "Six of Wands",
+            "description": "Victory, success, public recognition",
+            "imageUrl": "wands-6",
+            "keywords": ["victory", "success", "recognition", "pride"]
+        },
+        {
+            "id": 28,
+            "name": "Seven of Wands",
+            "description": "Defense, perseverance, maintaining control",
+            "imageUrl": "wands-7",
+            "keywords": ["challenge", "defense", "perseverance", "standing ground"]
+        },
+        {
+            "id": 29,
+            "name": "Eight of Wands",
+            "description": "Swift action, movement, progress",
+            "imageUrl": "wands-8",
+            "keywords": ["movement", "speed", "progress", "air travel"]
+        },
+        {
+            "id": 30,
+            "name": "Nine of Wands",
+            "description": "Resilience, persistence, last stand",
+            "imageUrl": "wands-9",
+            "keywords": ["resilience", "courage", "persistence", "test"]
+        },
+        {
+            "id": 31,
+            "name": "Ten of Wands",
+            "description": "Burden, responsibility, hard work",
+            "imageUrl": "wands-10",
+            "keywords": ["burden", "responsibility", "hard work", "stress"]
+        },
+        {
+            "id": 32,
+            "name": "Page of Wands",
+            "description": "Exploration, excitement, discovery",
+            "imageUrl": "wands-11",
+            "keywords": ["exploration", "excitement", "discovery", "free spirit"]
+        },
+        {
+            "id": 33,
+            "name": "Knight of Wands",
+            "description": "Action, adventure, impulsiveness",
+            "imageUrl": "wands-12",
+            "keywords": ["action", "adventure", "passion", "impulsiveness"]
+        },
+        {
+            "id": 34,
+            "name": "Queen of Wands",
+            "description": "Confidence, determination, social butterfly",
+            "imageUrl": "wands-13",
+            "keywords": ["confidence", "determination", "social", "vivacious"]
+        },
+        {
+            "id": 35,
+            "name": "King of Wands",
+            "description": "Leadership, vision, entrepreneur",
+            "imageUrl": "wands-14",
+            "keywords": ["leadership", "vision", "entrepreneur", "honor"]
+        },
+        {
+            "id": 36,
+            "name": "Ace of Cups",
+            "description": "New feelings, intuition, spirituality",
+            "imageUrl": "cups-1",
+            "keywords": ["love", "emotions", "spirituality", "intuition"]
+        },
+        {
+            "id": 37,
+            "name": "Two of Cups",
+            "description": "Partnership, mutual attraction",
+            "imageUrl": "cups-2",
+            "keywords": ["partnership", "connection", "harmony", "attraction"]
+        },
+        {
+            "id": 38,
+            "name": "Three of Cups",
+            "description": "Celebration, friendship, community",
+            "imageUrl": "cups-3",
+            "keywords": ["celebration", "friendship", "community", "joy"]
+        },
+        {
+            "id": 39,
+            "name": "Four of Cups",
+            "description": "Contemplation, apathy, reevaluation",
+            "imageUrl": "cups-4",
+            "keywords": ["meditation", "apathy", "contemplation", "discontent"]
+        },
+        {
+            "id": 40,
+            "name": "Five of Cups",
+            "description": "Loss, regret, disappointment",
+            "imageUrl": "cups-5",
+            "keywords": ["loss", "regret", "disappointment", "grief"]
+        },
+        {
+            "id": 41,
+            "name": "Six of Cups",
+            "description": "Nostalgia, childhood memories, innocence",
+            "imageUrl": "cups-6",
+            "keywords": ["nostalgia", "memories", "innocence", "reunion"]
+        },
+        {
+            "id": 42,
+            "name": "Seven of Cups",
+            "description": "Choices, fantasy, illusion",
+            "imageUrl": "cups-7",
+            "keywords": ["choices", "fantasy", "illusion", "dreams"]
+        },
+        {
+            "id": 43,
+            "name": "Eight of Cups",
+            "description": "Walking away, disillusionment",
+            "imageUrl": "cups-8",
+            "keywords": ["abandonment", "withdrawal", "seeking truth", "walking away"]
+        },
+        {
+            "id": 44,
+            "name": "Nine of Cups",
+            "description": "Contentment, satisfaction, wishes",
+            "imageUrl": "cups-9",
+            "keywords": ["contentment", "satisfaction", "wishes", "happiness"]
+        },
+        {
+            "id": 45,
+            "name": "Ten of Cups",
+            "description": "Harmony, family bliss, lasting happiness",
+            "imageUrl": "cups-10",
+            "keywords": ["harmony", "happiness", "family", "fulfillment"]
+        },
+        {
+            "id": 46,
+            "name": "Page of Cups",
+            "description": "Creative beginnings, intuitive messages",
+            "imageUrl": "cups-11",
+            "keywords": ["creativity", "intuition", "sensitivity", "messenger"]
+        },
+        {
+            "id": 47,
+            "name": "Knight of Cups",
+            "description": "Romance, charm, imagination",
+            "imageUrl": "cups-12",
+            "keywords": ["romance", "charm", "imagination", "pursuit"]
+        },
+        {
+            "id": 48,
+            "name": "Queen of Cups",
+            "description": "Emotional intelligence, intuition, empathy",
+            "imageUrl": "cups-13",
+            "keywords": ["intuition", "empathy", "compassion", "nurturing"]
+        },
+        {
+            "id": 49,
+            "name": "King of Cups",
+            "description": "Emotional balance, diplomacy, wisdom",
+            "imageUrl": "cups-14",
+            "keywords": ["wisdom", "diplomacy", "balance", "compassion"]
+        },
+        {
+            "id": 50,
+            "name": "Ace of Swords",
+            "description": "Mental clarity, breakthrough, truth",
+            "imageUrl": "swords-1",
+            "keywords": ["clarity", "truth", "breakthrough", "insight"]
+        },
+        {
+            "id": 51,
+            "name": "Two of Swords",
+            "description": "Decision, stalemate, blocked emotions",
+            "imageUrl": "swords-2",
+            "keywords": ["decision", "stalemate", "balance", "crossroads"]
+        },
+        {
+            "id": 52,
+            "name": "Three of Swords",
+            "description": "Heartbreak, sorrow, grief",
+            "imageUrl": "swords-3",
+            "keywords": ["heartbreak", "sorrow", "grief", "pain"]
+        },
+        {
+            "id": 53,
+            "name": "Four of Swords",
+            "description": "Rest, recuperation, contemplation",
+            "imageUrl": "swords-4",
+            "keywords": ["rest", "recovery", "contemplation", "peace"]
+        },
+        {
+            "id": 54,
+            "name": "Five of Swords",
+            "description": "Conflict, defeat, win at all costs",
+            "imageUrl": "swords-5",
+            "keywords": ["conflict", "defeat", "loss", "humiliation"]
+        },
+        {
+            "id": 55,
+            "name": "Six of Swords",
+            "description": "Transition, moving forward, healing",
+            "imageUrl": "swords-6",
+            "keywords": ["transition", "change", "moving on", "journey"]
+        },
+        {
+            "id": 56,
+            "name": "Seven of Swords",
+            "description": "Deception, strategy, sneaking away",
+            "imageUrl": "swords-7",
+            "keywords": ["deception", "strategy", "cunning", "theft"]
+        },
+        {
+            "id": 57,
+            "name": "Eight of Swords",
+            "description": "Restriction, imprisonment, self-imposed bonds",
+            "imageUrl": "swords-8",
+            "keywords": ["restriction", "limitation", "imprisonment", "victim"]
+        },
+        {
+            "id": 58,
+            "name": "Nine of Swords",
+            "description": "Anxiety, worry, nightmares",
+            "imageUrl": "swords-9",
+            "keywords": ["anxiety", "worry", "fear", "nightmares"]
+        },
+        {
+            "id": 59,
+            "name": "Ten of Swords",
+            "description": "Painful endings, rock bottom, betrayal",
+            "imageUrl": "swords-10",
+            "keywords": ["endings", "loss", "pain", "betrayal"]
+        },
+        {
+            "id": 60,
+            "name": "Page of Swords",
+            "description": "New ideas, curiosity, communication",
+            "imageUrl": "swords-11",
+            "keywords": ["curiosity", "communication", "vigilance", "truth"]
+        },
+        {
+            "id": 61,
+            "name": "Knight of Swords",
+            "description": "Action, ambition, rushing in",
+            "imageUrl": "swords-12",
+            "keywords": ["action", "ambition", "haste", "courage"]
+        },
+        {
+            "id": 62,
+            "name": "Queen of Swords",
+            "description": "Clear thinking, independence, unbiased judgment",
+            "imageUrl": "swords-13",
+            "keywords": ["intelligence", "clarity", "truth", "independence"]
+        },
+        {
+            "id": 63,
+            "name": "King of Swords",
+            "description": "Intellectual power, authority, truth",
+            "imageUrl": "swords-14",
+            "keywords": ["authority", "truth", "logic", "power"]
+        },
+        {
+            "id": 64,
+            "name": "Ace of Pentacles",
+            "description": "New financial opportunity, prosperity, abundance",
+            "imageUrl": "pentacles-1",
+            "keywords": ["opportunity", "prosperity", "abundance", "manifestation"]
+        },
+        {
+            "id": 65,
+            "name": "Two of Pentacles",
+            "description": "Balance, adaptability, time management",
+            "imageUrl": "pentacles-2",
+            "keywords": ["balance", "flexibility", "juggling", "adaptation"]
+        },
+        {
+            "id": 66,
+            "name": "Three of Pentacles",
+            "description": "Teamwork, collaboration, building",
+            "imageUrl": "pentacles-3",
+            "keywords": ["teamwork", "collaboration", "skill", "craftsmanship"]
+        },
+        {
+            "id": 67,
+            "name": "Four of Pentacles",
+            "description": "Security, conservation, frugality",
+            "imageUrl": "pentacles-4",
+            "keywords": ["security", "possession", "stability", "conservation"]
+        },
+        {
+            "id": 68,
+            "name": "Five of Pentacles",
+            "description": "Hardship, loss, isolation",
+            "imageUrl": "pentacles-5",
+            "keywords": ["hardship", "poverty", "isolation", "worry"]
+        },
+        {
+            "id": 69,
+            "name": "Six of Pentacles",
+            "description": "Generosity, charity, sharing wealth",
+            "imageUrl": "pentacles-6",
+            "keywords": ["generosity", "charity", "giving", "receiving"]
+        },
+        {
+            "id": 70,
+            "name": "Seven of Pentacles",
+            "description": "Assessment, patience, investment",
+            "imageUrl": "pentacles-7",
+            "keywords": ["assessment", "evaluation", "patience", "growth"]
+        },
+        {
+            "id": 71,
+            "name": "Eight of Pentacles",
+            "description": "Apprenticeship, skill development, diligence",
+            "imageUrl": "pentacles-8",
+            "keywords": ["skill", "learning", "diligence", "craftsmanship"]
+        },
+        {
+            "id": 72,
+            "name": "Nine of Pentacles",
+            "description": "Luxury, self-reliance, financial independence",
+            "imageUrl": "pentacles-9",
+            "keywords": ["luxury", "independence", "refinement", "achievement"]
+        },
+        {
+            "id": 73,
+            "name": "Ten of Pentacles",
+            "description": "Wealth, family legacy, inheritance",
+            "imageUrl": "pentacles-10",
+            "keywords": ["wealth", "legacy", "family", "establishment"]
+        },
+        {
+            "id": 74,
+            "name": "Page of Pentacles",
+            "description": "New opportunity, study, manifestation",
+            "imageUrl": "pentacles-11",
+            "keywords": ["study", "opportunity", "diligence", "manifestation"]
+        },
+        {
+            "id": 75,
+            "name": "Knight of Pentacles",
+            "description": "Hard work, routine, conservatism",
+            "imageUrl": "pentacles-12",
+            "keywords": ["reliability", "routine", "hard work", "conservatism"]
+        },
+        {
+            "id": 76,
+            "name": "Queen of Pentacles",
+            "description": "Nurturing, practical, financial security",
+            "imageUrl": "pentacles-13",
+            "keywords": ["nurturing", "practical", "abundance", "security"]
+        },
+        {
+            "id": 77,
+            "name": "King of Pentacles",
+            "description": "Wealth, business, leadership, security",
+            "imageUrl": "pentacles-14",
+            "keywords": ["abundance", "power", "security", "ambition"]
+        }
+    ]
+} 
